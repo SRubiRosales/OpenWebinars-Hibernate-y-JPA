@@ -1,4 +1,4 @@
-package com.openwebinars.hibernate.primerproyectohbn;
+package com.openwebinars.hibernate.primerproyectohibernatejpa;
 
 import static org.junit.Assert.assertTrue;
 
